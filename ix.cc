@@ -4,6 +4,10 @@
 #include <assert.h>
 #include <string.h>
 #include <iostream>
+/*
+ * I will re-construct the code
+ */
+
 
 IndexManager* IndexManager::_index_manager = 0;
 
